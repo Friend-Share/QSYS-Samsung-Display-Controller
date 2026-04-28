@@ -1,5 +1,8 @@
 # Q-SYS Samsung Display Controller
 
+> ?? **This plugin is currently untested and in active development.** Features may change, and behavior on live hardware has not been fully validated. Use at your own risk and please report any issues.
+
+
 This repository contains a Q-SYS plugin (`QSYS-Samsung_Display_Controller.qplug`) designed to control Samsung Commercial Displays over Ethernet (TCP) or RS-232 using the Samsung MDC binary protocol.
 
 ## Features
